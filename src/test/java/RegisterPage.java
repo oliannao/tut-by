@@ -2,9 +2,6 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 
-/**
- * Created by irct_osadchaya on 15.12.2017.
- */
 public class RegisterPage extends Page{
     private final String URL = "https://profile.tut.by/register.html";
     public RegisterPage(WebDriver driver) {
