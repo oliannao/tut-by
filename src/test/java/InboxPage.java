@@ -2,9 +2,6 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 
-/**
- * Created by irct_osadchaya on 15.12.2017.
- */
 public class InboxPage extends Page {
     private final String URL = "https://mail.yandex.by/?uid=1130000026157507&login=rebenokan#inbox";
     public InboxPage (WebDriver driver) {
