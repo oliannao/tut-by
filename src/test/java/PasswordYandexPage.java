@@ -2,9 +2,6 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 
-/**
- * Created by irct_osadchaya on 15.12.2017.
- */
 public class PasswordYandexPage extends Page{
     private final String URL = "https://passport.yandex.by/passport?mode=auth&from=mail&retpath=https%3A%2F%2Fmail.yandex.by&origin=hostroot_by_nol_mobile_enter&ncrnd=3351";
 
