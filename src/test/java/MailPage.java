@@ -1,9 +1,6 @@
 import org.openqa.selenium.*;
 import org.openqa.selenium.support.FindBy;
 
-/**
- * Created by irct_osadchaya on 15.12.2017.
- */
 public class MailPage extends Page {
     private final String URL = "https://profile.tut.by/register.html";
 
